@@ -1,0 +1,17 @@
+{
+  "name": "pugi",
+  "owner": {
+    "name": "Pugi",
+    "email": "info@pugi.io"
+  },
+  "plugins": [
+    {
+      "name": "pugi",
+      "source": "./",
+      "description": "Build and publish websites from a brief, check public websites and GitHub repositories for security issues, generate logos, and search Pugi starter sites."
+    }
+  ],
+  "metadata": {
+    "description": "Pugi: build, check and publish websites from Claude Code."
+  }
+}
