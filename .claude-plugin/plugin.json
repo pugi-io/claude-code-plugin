@@ -1,6 +1,6 @@
 {
   "name": "pugi",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Build and publish websites from a brief, check public websites and GitHub repositories for security issues, generate logos, and search Pugi starter sites.",
   "author": {
     "name": "Pugi",
