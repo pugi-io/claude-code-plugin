@@ -1,17 +1,20 @@
 {
   "name": "pugi",
   "owner": {
-    "name": "Pugi",
-    "email": "support@pugi.io"
+    "name": "Pugi Inc.",
+    "email": "support@pugi.io",
+    "url": "https://pugi.io"
+  },
+  "metadata": {
+    "description": "Pugi: build, check and publish websites from Claude."
   },
   "plugins": [
     {
       "name": "pugi",
       "source": "./",
-      "description": "Build and publish websites from a brief, check public websites and GitHub repositories for security issues, generate logos, and search Pugi starter sites."
+      "description": "Build a website from a brief, change it and put it live, check a public website or GitHub repository for security issues, make logos, and search the Pugi catalogue of sites to start from.",
+      "category": "web",
+      "tags": ["website", "publish", "security", "logo"]
     }
-  ],
-  "metadata": {
-    "description": "Pugi: build, check and publish websites from Claude Code."
-  }
+  ]
 }

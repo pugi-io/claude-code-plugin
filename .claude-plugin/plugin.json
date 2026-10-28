@@ -1,19 +1,20 @@
 {
   "name": "pugi",
-  "version": "1.1.1",
-  "description": "Build and publish websites from a brief, check public websites and GitHub repositories for security issues, generate logos, and search Pugi starter sites.",
+  "displayName": "Pugi",
+  "version": "1.2.0",
+  "description": "Build a website from a brief, change it and put it live, check a public website or GitHub repository for security issues, make logos, and search the Pugi catalogue of sites to start from.",
   "author": {
-    "name": "Pugi",
-    "email": "support@pugi.io"
+    "name": "Pugi Inc.",
+    "email": "support@pugi.io",
+    "url": "https://pugi.io"
   },
   "homepage": "https://pugi.io",
-  "mcpServers": {
-    "pugi": {
-      "type": "http",
-      "url": "https://api.pugi.io/api/agent/v1/mcp"
-    }
-  },
+  "repository": "https://github.com/pugi-io/claude-code-plugin",
+  "license": "MIT",
+  "keywords": ["website", "website-builder", "publish", "security", "logo", "pugi"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://docs.pugi.io",
+  "supportUrl": "https://pugi.io/support",
   "privacyPolicyUrl": "https://pugi.io/privacy",
-  "icon": ".claude-plugin/icon.png",
-  "license": "MIT"
+  "termsOfServiceUrl": "https://pugi.io/terms"
 }
